@@ -7,7 +7,7 @@ This document covers the following topics:
 
 - [Introduction to mbed Device Connector Service](Connector-intro.md)
 
-- [Quick start]()
+- [Quick start](Quick-guide.md)
 
 
 
