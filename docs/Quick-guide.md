@@ -19,10 +19,10 @@ This chapter guides you to the process of getting started with using mbed Device
 
 You can find an example mbed Client application both for the mbed OS and Ubuntu in the github:
 
-- [mbed OS](https://github.com/ARMmbed/mbed-client-examples). 
+- [mbed OS](https://github.com/ARMmbed/mbed-client-examples)
 
-- [Ubuntu](https://github.com/ARMmbed/mbed-client-linux-example).
+- [Ubuntu](https://github.com/ARMmbed/mbed-client-linux-example)
 
 A Web Application example working with the mbed Device Connector is here:
 
-- (https://github.com/ARMmbed/mbed-webapp-example/tree/master) 
+- [Web Application Example](https://github.com/ARMmbed/mbed-webapp-example/tree/master) 
