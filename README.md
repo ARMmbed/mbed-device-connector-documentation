@@ -1,3 +1,3 @@
-# mbed-device-connector-documentation
+# mbed Device Connector documentation
 
-mbed Device Connector documentation for docs.mbed.com
+This repository contains mbed Device Connector documentation for docs.mbed.com.
