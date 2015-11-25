@@ -22,29 +22,32 @@ You can get the mbed Client library from the [mbed-client github repository](htt
 
 `how to clone the repo`
 
-You will also need [yotta](http://yottadocs.mbed.com/#installing) for building your ...
+You will also need [yotta](http://yottadocs.mbed.com/#installing) for building your mbed Client application.
 
-The mbed Device Connector is available for you at [this website](https://connector.mbed.com/). You just need to log in with your mbed.org account.
-
-## Building the mbed Client
-
-
-## Setting up your environment
-
-## Flashing the mbed Client to your device (the development board)
-
-## Running the service
-
-Now that everything is in place, you can (do something with the mbed Device Connector). This is how to...
+The mbed Device Connector is available for you at [this website](https://connector.mbed.com/). You just need to log in with your mbed account.
 
 ## Examples
 
-You can find an example mbed Client application both for the mbed OS and Ubuntu in the github:
+### mbed Client
+
+To make it easy for you, we have prepared examples of building an mbed Client application both for the **mbed OS** and **Ubuntu** in the github:
 
 - [mbed OS](https://github.com/ARMmbed/mbed-client-examples)
-
 - [Ubuntu](https://github.com/ARMmbed/mbed-client-linux-example)
 
-A Web Application example working with the mbed Device Connector is here:
+Both examples explain in detail how to:
+
+- set up your environment.
+- build your mbed Client.
+- set the certificate.
+- flash your target device.
+- use the test application with mbed Device Connector.
+
+### Web application
+
+A web application example working with the mbed Device Connector is here:
 
 - [Web Application Example](https://github.com/ARMmbed/mbed-webapp-example/tree/master) 
+
+
+
