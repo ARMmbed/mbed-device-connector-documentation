@@ -9,7 +9,7 @@ To help device manufacturers join the Internet of Things, ARM mbed created mbed 
 
 All in all, mbed Device Connector is the glue between devices with mbed Client library and the web applications as illustrated below.
 
-![connector](img/Teasers_Connector.png)
+![connector](img/Device_Connector_new.png)
 
 ## Features
 
