@@ -14,17 +14,17 @@ For the mbed Client library, you need:
 - an Ethernet cable
 - a micro-USB cable
 
-For the mbed Device Connector you only need a computer with an internet connection.
+For mbed Device Connector you only need a computer with an internet connection.
 
 ### Software
 
 You can get the mbed Client library from the [mbed-client github repository](https://github.com/ARMmbed/mbed-client). Clone the repository to your computer as follows:
 
-`how to clone the repo`
+`git clone`
 
 You will also need [yotta](http://yottadocs.mbed.com/#installing) for building your mbed Client application.
 
-The mbed Device Connector is available for you at [this website](https://connector.mbed.com/). You just need to log in with your mbed account.
+mbed Device Connector is available for you at [this website](https://connector.mbed.com/). You just need to log in with your mbed account.
 
 ## Examples
 
@@ -45,7 +45,7 @@ Both examples explain in detail how to:
 
 ### Web application
 
-A web application example working with the mbed Device Connector is here:
+A web application example working with mbed Device Connector is here:
 
 - [Web Application Example](https://github.com/ARMmbed/mbed-webapp-example/tree/master) 
 
