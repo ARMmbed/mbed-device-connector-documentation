@@ -1,6 +1,6 @@
 site_name: Getting started with mbed Device Connector
 theme: readthedocs
-use directory_urls: false
+
 pages:
 - ['Index.md', 'About this document']
 - ['Connector-intro.md','Introduction to mbed Client']
