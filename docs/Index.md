@@ -1,5 +1,5 @@
 Getting started with mbed Device Connector
-==========================================
+=========================================
 
 Welcome to the mbed Device Connector documentation.
 
