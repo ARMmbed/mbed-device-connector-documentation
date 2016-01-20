@@ -3,7 +3,7 @@ theme: readthedocs
 
 pages:
 - ['index.md', 'About this document']
-- ['Connector-intro.md','Introduction to mbed Client']
+- ['Connector-intro.md','Introduction to mbed Device Connector']
 - ['Quick-guide.md','Getting started']
 - ['Further-reading.md','Further reading']
 
