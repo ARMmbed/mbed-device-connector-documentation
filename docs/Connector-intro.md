@@ -5,7 +5,7 @@ ARM mbed Device Connector is a web service that lets you securely and energy eff
 
 In a nutshell, mbed Device Connector simply connects devices and web applications.
 
-To help device manufacturers join the Internet of Things, ARM mbed created mbed Client: a library that connects devices to mbed Device Connector Service, mbed Device Server and to mbed-enabled cloud services from our partners.
+To help device manufacturers join the Internet of Things, ARM created mbed Client: a library that connects devices to mbed Device Connector Service, mbed Device Server and to mbed-enabled cloud services from our partners.
 
 All in all, mbed Device Connector is the glue between devices with mbed Client library and the web applications as illustrated below.
 
