@@ -1,5 +1,4 @@
-Introduction
-=============
+## Introduction
 
 ARM mbed Device Connector is a web service that lets you securely and energy efficiently connect Internet of Things (IoT) devices to the cloud, enabling data communication and device management. Devices are then available through REST APIs to enterprise software, web applications and cloud stacks. 
 
@@ -11,7 +10,7 @@ All in all, mbed Device Connector is the glue between devices with mbed Client l
 
 ![connector](img/Device_Connector_new.png)
 
-## Features
+### Features
 
 - Based on open industry standard protocols including CoAP/HTTP, TLS/TCP, DTLS/UDP and OMA LWM2M, enabling energy efficient data communication 
 and device management.
@@ -20,7 +19,7 @@ and device management.
 - Offers full integration of the developer console and web tools with mbed.com; there is no need to move to a different development environment 
 after deployment.
 
-## Key benefits
+### Key benefits
 
 - Fully compatible with [mbed OS](https://www.mbed.com/en/development/software/mbed-os/).
 - Allows connecting mbed supported devices to the cloud simply and securely.
