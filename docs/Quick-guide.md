@@ -4,7 +4,9 @@ This chapter gets you started with mbed Device Connector, guiding you how to con
 
 ### Prerequisites
 
-You will need a few pieces of hardware and software to get everyting running properly.
+You will need a few pieces of hardware and software to get everything running properly.
+
+<span class="tips">**Tip:** You may need access permission to the private GitHub repos referenced in this section. Please [contact us](https://cloud.mbed.com/contact) to request access.</span>
 
 #### Hardware
 
